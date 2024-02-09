@@ -48,7 +48,7 @@ Country = "🇮🇳"
 ```
 
 # 💫 About Me:
-👋 I'm Ayush Sharma<br><br>    🔭 I’m Currently Working On My Life<br><br>    🌱 I’m Currently Studying C++ And DSA<br><br>    👯 I’m Looking To Collaborate On Projects<br><br>    💬 Ask me about Web Dev/Python<br><br>    📫 Reach Me On Twitter: CyberBoyAyush<br>
+👋 I'm Ayush Sharma<br><br>    🔭 I’m Currently Working On My Life.<br><br>    🌱 I’m Currently Studying C++ And DSA<br><br>    👯 I’m Looking To Collaborate On Projects<br><br>    💬 Ask me about Web Dev/Python<br><br>    📫 Reach Me On Twitter: CyberBoyAyush<br>
 
 
 ## 🌐 Socials:
