@@ -65,7 +65,7 @@ Country = "🇮🇳"
 ![](https://github-profile-trophy.vercel.app/?username=cyberboyayush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)]([https://upayi.ml/ayushsharma2424@ybl](https://www.upilinks.in/payment-link/upi1841314838))
+[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://www.upilinks.in/payment-link/upi1841314838)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
