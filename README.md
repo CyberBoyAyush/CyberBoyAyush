@@ -61,6 +61,9 @@ Country = "🇮🇳"
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cyberboyayush&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberboyayush&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📈Leetcode Stats
+![](https://leetcard.jacoblin.cool/cyberboyayush?ext=heatmap)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cyberboyayush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
