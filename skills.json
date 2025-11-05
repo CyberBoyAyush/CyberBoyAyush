@@ -1,0 +1,226 @@
+{
+  "name": "Ayush Sharma",
+  "title": "Full Stack Lead Developer",
+  "location": "India",
+  "availability": "Available for Work",
+  "portfolio": "https://aysh.me",
+  "github": "https://github.com/CyberBoyAyush",
+  "twitter": "https://twitter.com/CyberBoyAyush",
+  "linkedin": "https://linkedin.com/in/cyberboyayush",
+  
+  "core_skills": {
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Python",
+      "C++",
+      "C",
+      "Java",
+      "SQL",
+      "Bash"
+    ],
+    "frontend": [
+      "React.js",
+      "Next.js",
+      "React Native",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux",
+      "Zustand",
+      "Shadcn/ui",
+      "Framer Motion",
+      "Vite",
+      "Webpack"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "Fastify",
+      "GraphQL",
+      "Apollo GraphQL",
+      "REST APIs",
+      "WebSocket",
+      "Socket.io",
+      "tRPC",
+      "Microservices"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Redis",
+      "Supabase",
+      "Firebase",
+      "Appwrite",
+      "PlanetScale",
+      "Neon"
+    ],
+    "orms": [
+      "Prisma",
+      "Drizzle ORM",
+      "TypeORM",
+      "Mongoose"
+    ],
+    "cloud": [
+      "AWS",
+      "Vercel",
+      "Cloudflare",
+      "Google Cloud Platform",
+      "Azure",
+      "DigitalOcean",
+      "Heroku",
+      "Netlify",
+      "Railway",
+      "Render"
+    ],
+    "devops": [
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions",
+      "CI/CD",
+      "Nginx",
+      "PM2",
+      "Linux Administration"
+    ],
+    "authentication": [
+      "JWT",
+      "NextAuth.js",
+      "Auth0",
+      "Clerk",
+      "OAuth 2.0",
+      "Bcrypt",
+      "RBAC"
+    ],
+    "ai_ml": [
+      "OpenAI API",
+      "LangChain",
+      "Pinecone",
+      "HuggingFace",
+      "TensorFlow",
+      "scikit-learn",
+      "RAG Systems",
+      "Vector Databases"
+    ],
+    "message_queues": [
+      "RabbitMQ",
+      "Apache Kafka",
+      "Bull Queue",
+      "Redis Queue"
+    ],
+    "testing_tools": [
+      "Postman",
+      "Insomnia",
+      "Swagger",
+      "Thunder Client"
+    ],
+    "monitoring": [
+      "Sentry",
+      "Google Analytics",
+      "Vercel Analytics",
+      "Prometheus",
+      "Grafana"
+    ],
+    "payment": [
+      "Stripe",
+      "Razorpay",
+      "PayPal"
+    ],
+    "version_control": [
+      "Git",
+      "GitHub",
+      "GitLab"
+    ],
+    "dev_tools": [
+      "VS Code",
+      "Cursor",
+      "npm",
+      "pnpm",
+      "Yarn",
+      "Bun",
+      "ESLint",
+      "Prettier",
+      "Turborepo"
+    ],
+    "cms": [
+      "Sanity",
+      "Contentful",
+      "Strapi"
+    ],
+    "email": [
+      "Resend",
+      "Nodemailer",
+      "SendGrid"
+    ],
+    "design": [
+      "Figma",
+      "Canva",
+      "Adobe XD"
+    ]
+  },
+  
+  "expertise": [
+    "Full Stack Development",
+    "System Design",
+    "Scalable Architecture",
+    "Microservices",
+    "API Development",
+    "Database Design",
+    "Cloud Architecture",
+    "DevOps",
+    "Security Best Practices",
+    "Performance Optimization",
+    "AI/ML Integration",
+    "Real-time Applications",
+    "Mobile Development",
+    "Team Leadership",
+    "Agile/Scrum"
+  ],
+  
+  "soft_skills": [
+    "Problem Solving",
+    "Team Leadership",
+    "Technical Documentation",
+    "Code Review",
+    "Mentoring",
+    "Communication",
+    "Project Management"
+  ],
+  
+  "certifications": [
+    "Data Structures & Algorithms"
+  ],
+  
+  "competitive_programming": {
+    "platforms": [
+      "LeetCode",
+      "HackerRank",
+      "CodeChef",
+      "Codeforces"
+    ]
+  },
+  
+  "key_strengths": [
+    "Production-ready code with proper error handling",
+    "Experience with scalable system design",
+    "Security-first development approach",
+    "Strong TypeScript & modern JavaScript expertise",
+    "Full-stack capabilities from UI to database",
+    "Cloud-native & DevOps mindset",
+    "AI/ML integration experience",
+    "Excellent documentation and communication"
+  ],
+  
+  "technologies_count": "100+",
+  "years_experience": "3+",
+  "role_type": "Full Stack Lead Developer",
+  "work_type": "Remote/Hybrid/On-site",
+  "open_to": [
+    "Full-time positions",
+    "Contract work",
+    "Freelance projects",
+    "Consulting",
+    "Open source collaboration"
+  ]
+}
